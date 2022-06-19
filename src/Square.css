@@ -1,0 +1,13 @@
+.Square{
+    margin: 20px;
+    width: 100px;
+    height: 100px;
+    
+}
+.SquareControl{
+    margin: 10px;
+    position: absolute;
+    top: auto;
+    width: 300px;
+    left: 80px;
+}
